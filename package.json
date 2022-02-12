@@ -2,7 +2,7 @@
   "name": "docker_web_app",
   "version": "1.0.0",
   "description": "node.js on docker",
-  "author": "first last <first.last@example.com>",
+  "author": "first last <vasya.pupkin@example.com>",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
